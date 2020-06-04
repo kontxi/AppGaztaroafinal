@@ -1,0 +1,2 @@
+# AppGaztaroafinal
+Desde Redux-persist
